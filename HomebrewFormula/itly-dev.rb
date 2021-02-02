@@ -1,8 +1,8 @@
 class ItlyDev < Formula
   desc "The Itly CLI (Dev)"
   homepage "https://iterative.ly/"
-  url "https://cli-assets-dev.iterative.ly/channels/itly-1557/itly-v1.0.4-itly-1557.705/itly-v1.0.4-itly-1557.705.tar.gz"
-  sha256 "716d0301854fb9073e56a498af990fee858e9e7863795b4ca435c26906f23e71"
+  url "https://cli-assets-dev.iterative.ly/channels/itly-1509/itly-v1.0.4-itly-1509.707/itly-v1.0.4-itly-1509.707.tar.gz"
+  sha256 "d32c608e9643120198707eadf4b85f1ce89e61fcfc620d45ad7cc5bea7db8963"
 
   depends_on "node"
 
