@@ -7,8 +7,4 @@ class ItlyNodeDev < Formula
   def install
     libexec.install buildpath/"node"
   end
-
-  # def test
-  #   system bin/"node", "version"
-  # end
 end
